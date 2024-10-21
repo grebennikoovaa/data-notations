@@ -1,0 +1,21 @@
+<email>
+    <sender>
+        <name>Jane Smith</name>
+        <emailadress>janesmith@university.edu</emailadress>
+    </sender>
+    <recipient>
+        <name>John Doe</name>
+        <emailadress>johndoe@university.edu</emailadress>
+    </recipient>
+    <subject>Request for permission to receive a social scholarship</subject>
+    <messageBody>
+        Dear John Doe, 
+
+        I hope this message finds you well. I am writing to formally request permission to receive a social scholarship. 
+        Could you kindly guide me through the necessary steps and documentation required for the application process? 
+        I appreciate your support and assistance.
+
+        Best regards,
+        Jane Smith
+    </messageBody>    
+</email>
