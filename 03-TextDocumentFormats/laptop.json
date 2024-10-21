@@ -1,0 +1,17 @@
+{
+    "brand": "Dell",
+    "model": "Inspiron 15",
+    "year": 2023,
+    "isTouchscreen": false,
+    "devices": ["touchpad","webcam"],
+    "color": ["black", "white", "grey"],
+    "price": {
+        "currency": "USD",
+        "amount": "1000"
+    },
+    "specs": {
+            "processor": "Intel Core i5",
+            "ram": "8GB",
+            "storage": "256GB"
+    }
+}
