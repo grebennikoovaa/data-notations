@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Puma",
+        "founded": 1948,
+        "headquarters": "Herzogenaurach, Germany",
+        "employees": 20000,
+        "products":[
+            "Footwear",
+            "Athletic Apparel",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Levi Strauss & Co",
+        "founded": 1853,
+        "headquarters": "San Francisco, California, US",
+        "employees": 16000,
+        "products": [
+            "Fashion Apparel",
+            "Accessories",
+            "Denim"
+        ]
     }
 ]
