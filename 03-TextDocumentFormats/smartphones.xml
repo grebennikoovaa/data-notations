@@ -9,4 +9,14 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+
+    <smartphone brand="Apple" model="Iphone 14" releaseYear="2022" >
+        <specs>
+            <screenSize unit="inch">6.1</screenSize>
+            <batteryCapacity unit="mAh">3279</batteryCapacity>
+            <storage unit="GB">256</storage>
+            <camera unit="MP">12</camera>
+        </specs>
+        <price currency="USD">799</price>
+    </smartphone>
 </smartphones>
