@@ -1,0 +1,21 @@
+{
+    
+    "ticket": {
+        "passengerName": "John Smith",
+        "ticketNumber": "R83949",
+        "class": "Economy class",
+        "departure": {
+            "station" : "Krakow Main Station",
+            "time" : "2024-09-25T07:45:00"
+        },
+        "arrival" : {
+            "station": "Warszawa Main Station",
+            "time": "2024-09-25T09:47:00"
+        },
+        "price" : {
+            "currency": "PLN",
+            "amount": 60
+        }
+    }
+       
+}
