@@ -1,0 +1,24 @@
+<? xml version="1.0" encoding = "UTF-8"?>
+
+<transportMeans>
+    <transport type="bus" frequency="often">
+        <way>From Dormitory to Cracow University of Economics</way>
+        <time units="minutes">20</time>
+        <ticketPrice currency="PLN">2</ticketPrice>
+        <capacity unit="people">80</capacity>
+    </transport>
+
+    <transport type="tram" frequency="daily">
+        <way>From Dormitory to Old Town</way>
+        <time units="minutes">35</time>
+        <ticketPrice currency="PLN">4</ticketPrice>
+        <capacity unit="people">90</capacity>
+    </transport>
+
+    <transport type="taxi" frequency="seldom">
+        <way>From Railway Station to Dormitory</way>
+        <time units="minutes">15</time>
+        <ticketPrice currency="PLN">17</ticketPrice>
+        <speedLimit unit="km/h">50</speedLimit>
+    </transport>
+</transportMeans>
